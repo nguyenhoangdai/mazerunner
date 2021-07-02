@@ -1,0 +1,33 @@
+            body {
+                background: black;
+                margin: 0;
+                padding: 0;
+                font-family: 'Times New Roman', Times, serif;
+            }
+            
+            #instructions {
+                background-color: rgba(0,0,0,0.75);
+                color: white;
+                text-align: center;
+                padding: 32px;
+                margin: 0px;
+                display: inline;
+                border: 4px dotted white;
+            }
+
+            #help {
+                position: absolute;
+                left: 0px;
+                bottom: 0px;
+                padding: 4px;
+                color: white;   
+            }
+
+            #level {
+                position: absolute;
+                left: 0px;
+                top: 0px;
+                padding: 4px;
+                color: white;   
+                font-weight: bold;
+            }
